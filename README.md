@@ -1,7 +1,7 @@
 # **Sutesh Lathubuktha**
-<a href="https://www.linkedin.com/in/sutesh-latchubuktha-87816b162/"><img src="https://www.flaticon.com/free-icon/linkedin_174857?term=free%20linkedin&page=1&position=2&page=1&position=2&related_id=174857&origin=search" height="35">
+<a href="https://www.linkedin.com/in/sutesh-latchubuktha-87816b162/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:lsutesh01@gmail.com" style="margin-left:50px"><img src="![image](https://user-images.githubusercontent.com/75980293/178105872-45792a89-db2f-437c-b5ae-ab7f6372da45.png)" width = "40" >
+<a href="mailto:lsutesh01@gmail.com" style="margin-left:50px"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width = "40" >
 </a>  
 
 Hi there 👋  
