@@ -5,7 +5,7 @@
 </a>  
 
 Hi there 👋  
-I am sutesh currently studying B.tech 3rd year in computer science and Engineering.I have knownledge in frontend technologies html,css,javasript and jquery.Currently I am learning Machine Learning.
+I am sutesh completed B.tech  in computer science and Engineering.I have knownledge in frontend technologies html,css,bootstrap,javasript and jquery,python,java.
 
 - 👀 I’m interested in Data science, machine learning and web development
 - 🌱 I’m currently learning machine learning
